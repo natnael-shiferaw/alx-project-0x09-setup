@@ -1,4 +1,2 @@
-// Placeholder for interfaces
-// Add your interfaces here as needed
-
-export {};
+export const WIDTH = 512
+export const HEIGHT = 512
